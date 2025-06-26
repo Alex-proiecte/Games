@@ -1,0 +1,18 @@
+[Libraries]
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+MemoryCaptures/
+
+# Visual Studio
+.vscode/
+*.csproj
+*.sln
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
